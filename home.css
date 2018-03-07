@@ -1,6 +1,10 @@
-.color {
+.div {
   color: red;
 }
-.color:hover {
-  color: blue
+.div:hover {
+  color: blue;
+}
+.header {
+  color: blue;
+  font-size: 32px;
 }
