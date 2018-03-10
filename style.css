@@ -12,3 +12,13 @@ th, td {
   padding-left: 15px;
   padding-right: 15px;
 }
+.message {
+  margin-bottom: 10px;
+}
+.database {
+  margin: 10px;
+}
+.disclaimer {
+  margin-top: 10px;
+  color: red;
+}
