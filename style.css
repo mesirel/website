@@ -1,0 +1,14 @@
+.link {
+  color: blue;
+}
+.link:hover {
+  color: purple;
+}
+.header {
+  color: black;
+  font-size: 32px;
+}
+th, td {
+  padding-left: 15px;
+  padding-right: 15px;
+}
